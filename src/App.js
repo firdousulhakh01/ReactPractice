@@ -6,8 +6,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>Firdousul Hakh</h1>
         <p>
-          Firdousul Hakh s/o Hyder Ali & Khadeeja!
+          S/o Hyder Ali & Khadeeja!
         </p>
       </header>
     </div>
